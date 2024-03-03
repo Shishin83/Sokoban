@@ -1,0 +1,9 @@
+FILENAME = 'assets/levels/levels.txt'
+
+WIDTH = 1280
+HEIGHT = 768
+
+TILE_SIZE = 64
+
+BACKGROUND_COLOR = (63, 63, 63)
+VICTORY_OVERLAY_COLOR = (0, 191, 63)
